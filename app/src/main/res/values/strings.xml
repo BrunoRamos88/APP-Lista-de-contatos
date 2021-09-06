@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="iv_photograph_content_description"> Foto do Contato </string>
+    <string name="menu_1">Menu Power Rangers</string>
+    <string name="menu_2">Menu Zordon</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+</resources>

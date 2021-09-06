@@ -1,0 +1,5 @@
+<resources>
+    <style name="TextViewDefault" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">#f00f00</item>
+    </style>
+</resources>
